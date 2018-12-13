@@ -1,6 +1,7 @@
 #!/bin/sh
 # Author: Carl Dunkelberger (carl.dunkelberger@docker.com)
 # Updated 12/13/2018
+# Tested On: UCP 3.0.7 DTR 2.5.6 Engine 17.06.2-ee-16
 # This script is provided as a convenience for troubleshooting. This is not intended to be used as an integral component of the Docker EE suite.
 
 usage () {
