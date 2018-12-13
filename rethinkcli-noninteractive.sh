@@ -1,4 +1,7 @@
 #!/bin/sh
+# Author: Carl Dunkelberger (carl.dunkelberger@docker.com)
+# Updated 12/13/2018
+# This script is provided as a convenience for troubleshooting. This is not intended to be used as an integral component of the Docker EE suite.
 
 usage () {
 echo "Usage: $0 RETHINK_QUERY"
